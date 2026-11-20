@@ -216,8 +216,7 @@ NCHS-Leading-Causes-of-Death-Analysis/
 │       └── heart_disease_mortality_map.html
 │
 ├── README.md
-├── pyproject.toml
-└── .gitignore
+└── pyproject.toml
 ```
 
 The `sql/` directory contains the validation, preparation, and analysis queries. The `notebooks/` directory contains the Python analysis, while `outputs/charts/` contains the resulting visualizations.
